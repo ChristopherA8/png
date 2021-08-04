@@ -1,0 +1,13 @@
+<!-- Contents of the iTXt chunk -->
+
+XML:com.adobe.xmp.....
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+.   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+.      <rdf:Description rdf:about=""
+.            xmlns:exif="http://ns.adobe.com/exif/1.0/">
+.         <exif:PixelYDimension>4</exif:PixelYDimension>
+.         <exif:PixelXDimension>4</exif:PixelXDimension>
+.         <exif:UserComment>Screenshot</exif:UserComment>
+.      </rdf:Description>
+.   </rdf:RDF>
+.</x:xmpmeta>
